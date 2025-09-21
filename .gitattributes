@@ -1,0 +1,9 @@
+# Normalize line endings
+* text=auto
+
+# Enforce LF for Python and notebooks
+*.py     text eol=lf
+*.ipynb  text eol=lf
+
+# Treat CSVs as text so Git shows diffs properly
+*.csv    text eol=lf
