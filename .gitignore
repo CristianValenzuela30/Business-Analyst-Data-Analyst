@@ -1,3 +1,7 @@
+# Git files
+.gitignore
+.gitattributes
+
 # Python cache
 __pycache__/
 *.pyc
