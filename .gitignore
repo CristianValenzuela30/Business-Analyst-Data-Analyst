@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Virtual environments (inside this project)
-.venv/
+.venv
 
 # VS Code settings (if created here)
 .vscode/
@@ -14,3 +14,5 @@ __pycache__/
 # Ignore generated analysis outputs, but keep source CSV files
 outputs/
 reports/*.html
+
+#
